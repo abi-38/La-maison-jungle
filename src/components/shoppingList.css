@@ -1,0 +1,23 @@
+.lmj-plant-list {
+	list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 800px;
+}
+
+.lmj-plant-categories {
+	list-style: none;
+	display: flex;
+	justify-content: center;
+}
+
+.lmj-plant-categories > li {
+	margin-left: 15px;
+}
+
+.lmj-plant-offres {
+	display: flex;
+	justify-content: space-between;
+	width: 16vw;
+}
